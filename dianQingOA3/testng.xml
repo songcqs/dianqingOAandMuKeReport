@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test" parallel="tests" thread-count="3">
+  <packages>
+  	<package name="com.oa.test"></package>
+  </packages>
+    <classes>
+      <!-- <class name="com.oa.test.login"/>
+      <class name="com.oa.test.Logout"/>
+      <class name="com.oa.test.MessageCheck"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
