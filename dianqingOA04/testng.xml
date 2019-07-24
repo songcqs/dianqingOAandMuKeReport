@@ -9,4 +9,5 @@
       <class name="com.testng.test.AppTest"/>
     </classes>
   </test> <!-- Test -->
+  <!-- 测试一下 -->
 </suite> <!-- Suite -->
